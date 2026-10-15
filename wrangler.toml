@@ -1,3 +1,7 @@
 name = "sveltia-oauth"
 main = "src/index.js"
 compatibility_date = "2023-03-24"
+# ...
+[vars]
+ALLOWED_DOMAINS = "jauns.kratki.lv"
+# ...
